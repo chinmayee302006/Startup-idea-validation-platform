@@ -418,3 +418,8 @@ npm install
 cp .env.example .env
 npm start
 
+
+
+video link:
+https://drive.google.com/drive/folders/17ZpxL6nIG3VWCLBCFZTFfD_zG9Uzu-_v?usp=sharing
+
